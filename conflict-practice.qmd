@@ -6,4 +6,3 @@ author: "Amber, Joy"
 
 ## Collaborative Analysis
 The most important parts of collaborative data analysis are documenting important decisions and keeping the project reproducible. Good collaboration also requires everyone to understand how changes are incorporated into a shared project.
-main
