@@ -1,0 +1,10 @@
+---
+title: "conflict-practice"
+format: html
+author: "Amber, Joy"
+---
+
+## Collaborative Analysis
+The most important part of collaborative data analysis is clear communication.
+Good collaboration also requires everyone to understand how changes are
+incorporated into a shared project.
